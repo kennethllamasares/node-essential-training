@@ -1,1 +1,2 @@
-"# node-essential-training" 
+Node Essential Training Excercises
+----------------------------------
